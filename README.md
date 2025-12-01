@@ -65,6 +65,12 @@ model-drift-detector/
 
 Each drift type lives in its own folder for modularity and extension.
 
+Sreenshots
+
+![Model_Drift_Detector_Architecture_Diagram](./Model_Drift_Arch-Diagram.png)
+![Model_Drift_Detector_Pro_Dashboard](./Model_Drift_Detector_Pro.jpg)
+
+
 📦 Installation
 git clone <repo-url>
 cd model-drift-detector
