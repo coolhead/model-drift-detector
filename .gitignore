@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Streamlit logs
+.streamlit/
+
+# OS files
+.DS_Store
+
+# Data files you don't want in repo
+data_samples/*.csv
